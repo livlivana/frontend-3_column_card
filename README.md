@@ -17,15 +17,14 @@ This is my solution attempt to the [3-column preview card component challenge on
 ### Screenshot
 
 Screenshot of the component on a full desktop (1440px)
-![](./screenshot.jpg)
+![./screenshot.jpg]
 
 Screenshot of the component on a mobile device (400px & below)
-![](./screenshot2.jpg)
+![./screenshot2.jpg]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site here](https://livlivana.github.io/frontend-3_column_card/)
 
 ## My process
 
