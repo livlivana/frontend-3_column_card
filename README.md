@@ -34,7 +34,7 @@ Screenshot of the component on a mobile device (400px & below)
 
 For this challenge, I got more comfortable and confident in re-adjusting the divs and containers with the property-value of auto (rather than trying to manually write down a fixed size for the card height/width).
 
-In addition, I am starting to enjoy building a responsive web design (to fit to different screen sizes). I get to play around with the different styling properties and think of new ways to display the web elements while ensuring quality user experience.  
+In addition, I am starting to enjoy building responsive web designs (to fit to different screen sizes). I get to play around with the different styling properties and think of new ways to display the web elements while ensuring quality user experience.  
 
 
 ### Continued development
